@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/web_clone_" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **HRMS(Human Resource Management System)**
 
 - 🌱 I’m currently learning **Next js**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **codealgorithmschool@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: on whatsapp: 01790434178</h3>
 <p align="left">
 <a href="https://twitter.com/web_clone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web_clone_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yeasin-arafat-nahid-a76894298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeasin-arafat-nahid" height="30" width="40" /></a>
