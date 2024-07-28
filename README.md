@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img  align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
-<img  align="right" alt="Coding" width="400" src="[https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif](https://www.google.com/logos/doodles/2024/paris-games-football-6753651837110524-law.gif)" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyanahid&label=Profile%20view&color=0e75b6&style=flat" alt="devyanahid" /></p>
 
 <p align="left"> <a href="https://twitter.com/web_clone_" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
