@@ -51,7 +51,7 @@ nd_color=%230d1117&tit
 [![How to Make a Flowchart and Class Diagram (as a software developer) ft. Mermaid Chart](https://ytcards.demolab.com/?id=hBtVWX5MRpU&title=How+to+Make+a+Flowchart+and+Class+Diagram+%28as+a+software+developer%29+ft.+Mermaid+Chart&lang=en&timestamp=1721138421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488 "How to Make a Flowchart and Class Diagram (as a software developer) ft. Mermaid Chart")](https://www.youtube.com/watch?v=hBtVWX5MRpU)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/@codealgoschool?si=JYtE0iFgreK6Nfc-?sub_confirmation=1)
 
 #
 
