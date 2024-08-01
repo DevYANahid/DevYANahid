@@ -1,4 +1,4 @@
-# 🏄‍♂️ YEASIN ARAFAT NAHID
+# 🏄‍♂️ YEASIN ARAFAT NAHID<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMUDHASANSADI&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDHASANSADI" /> </p>
 
 **`Digital Craftsman (Developer/DevOps Engineer/Creator)`**
 
@@ -44,7 +44,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=SI9oqIiJoUI&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=SI9oqIiJoUI&t=1s)
-[![Passion](https://ytcards.demolab.com/?id=o1kzIHGoTmM&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=o1kzIHGoTmM)
+[![Passion](https://ytcards.demolab.com/?id=1IvxjtLajck&title=Passion&lang=en&timestamp=1722009646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Passion")](https://www.youtube.com/watch?v=1IvxjtLajck)
 [![Llama 3.1 is ACTUALLY really good! (and open source)](https://ytcards.demolab.com/?id=exup0A3wHSs&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=exup0A3wHSs&t=1s)
 [![How a Logic Error DESTROYED 8,513,869 Computers](https://ytcards.demolab.com/?id=72ht5Vx1ZRg&title=How+a+Logic+Error+DESTROYED+8%2C513%2C869+Computers&lang=en&timestamp=1721772015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288 "How a Logic Error DESTROYED 8,513,869 Computers")](https://www.youtube.com/watch?v=72ht5Vx1ZRg&t=1s)
 [![when a null pointer dereference breaks the internet lol](https://ytcards.demolab.com/?id=_xDrHh-jR9k&title=when+a+null+pointer+dereference+breaks+the+internet+lol&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282 "when a null pointer dereference breaks the internet lol")](https://www.youtube.com/watch?v=_xDrHh-jR9k)
