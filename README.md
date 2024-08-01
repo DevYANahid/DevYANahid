@@ -1,8 +1,21 @@
-# 🏄‍♂️ YEASIN ARAFAT NAHID<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMUDHASANSADI&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDHASANSADI" /> </p>
+# 🏄‍♂️ YEASIN ARAFAT NAHID
+
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevYANahid&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDHASANSADI" /> </p>
 
 **`Digital Craftsman (Developer/DevOps Engineer/Creator)`**
 
 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[codeAlgo School][youtube]".
+
+- 🔭 I’m currently working on **HRMS(Human Resource Management System)**
+
+- 🌱 I’m currently learning **AWS**
+
+- 🤝 I’m looking for help with **JAVA**
+
+- 💬 Ask me about **Java, Spring, react, laravel, JavaScript , Linux**
+
+- 📫 How to reach me **codealgorithmschool@gmail.com**
+
 
    <p align="left">
       <a href="https://youtube.com/@codealgoschool?si=czAFflJzgPeX7c1Q?sub_confirmation=1">
@@ -14,7 +27,7 @@ I'm a full-stack developer and content creator building my version of the digita
       <a href="https://github.com/DevYANahid?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+<h3 align="left">Connect with me: on whatsapp: 01607703522</h3>
 ---
 
 ### 🧰 Languages and Tools
@@ -55,13 +68,16 @@ I'm a full-stack developer and content creator building my version of the digita
 
 #
 
-### 📊 Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=laravel&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F800px-Laravel.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLaravel&docid=Gtyg1MSSNKBLOM&tbnid=o1p2PT9e8_8YxM&vet=12ahUKEwjErOndp8mHAxXQxjgGHfMMCggQM3oECBYQAA..i&w=800&h=832&hcb=2&ved=2ahUKEwjErOndp8mHAxXQxjgGHfMMCggQM3oECBYQAA" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevYANahid&show_icons=true&theme=gruvbox)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevYANahid&show_icons=true&locale=en&layout=compact" alt="devyanahid" /></p>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DevYANahid&theme=gruvbox&border_radius=4.5) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevYANahid&show_icons=true&locale=en" alt="devyanahid" /></p>
 
-#
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevYANahid&" alt="devyanahid" /></p>
+
+
 <!--
 <details>
  <summary><h3>👨‍💻 Nahid's Coding Journey</h3></summary>
