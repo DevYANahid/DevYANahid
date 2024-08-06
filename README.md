@@ -12,7 +12,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 - 🤝 I’m looking for help with **JAVA**
 
-- 💬 Ask me about **Java, Spring, react, laravel, JavaScript , Linux**
+- 💬 Ask me about **Java, Spring, react, Phlaravel, JavaScript , Linux**
 
 - 📫 How to reach me **codealgorithmschool@gmail.com**
 
