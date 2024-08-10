@@ -16,7 +16,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 - 📫 How to reach me **codealgorithmschool@gmail.com**
 
-
+,
    <p align="left">
       <a href="https://youtube.com/@codealgoschool?si=czAFflJzgPeX7c1Q?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCImxa-rUTHldB5gdr7V0rdA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
