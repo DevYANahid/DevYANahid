@@ -2,7 +2,7 @@
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevYANahid&label=Profile%20views&color=0e75b6&style=flat" alt="DevYANahid" /> </p>
 
-**`Digital Craftsman (Developer/DevOps Engineer/Creator)`**
+**`Digital Craftsman (Developer/DevOps Engineer/Creator)`***
 
 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[codeAlgo School][youtube]".
 
