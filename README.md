@@ -14,7 +14,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 - 💬 Ask me about **Java, Spring, react, PHP, laravel, JavaScript , Linux**
 
-- 📫 How to reach me **codealgorithmschool@gmail.com**
+- 📫 How to reach me **codealgorithmschool@gmail.com***
 
    <p align="left">
       <a href="https://youtube.com/@codealgoschool?si=czAFflJzgPeX7c1Q?sub_confirmation=1">
